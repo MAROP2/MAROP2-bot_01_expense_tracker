@@ -1,0 +1,2 @@
+No third-party code with copyleft. Original authors credited in README if forked.
+For this package: created by Hermes Agent for Kai, MIT.
